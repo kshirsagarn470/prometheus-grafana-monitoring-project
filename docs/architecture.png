@@ -1,0 +1,13 @@
+          AWS EC2
+             │
+             ▼
+       Node Exporter
+             │
+             ▼
+         Prometheus
+             │
+             ▼
+          Grafana
+             │
+             ▼
+     Monitoring Dashboard
